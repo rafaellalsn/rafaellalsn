@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rafaella Nascimento. 
 - 👀 I’m interested in disseminating my research developed with data analysis and machine learning algorithms.
 - 🌱 I’m currently studying symbolic data analysis (SDA) of the interval type and linear and logistic regression models.
-- 💞️ I’m interested in topics such as data mining and data science, machine learning models, and data analysis.
+- 💞️ I’m interested in topics such as data mining, machine learning models, and data analysis.
 - 📫 How to reach me: Researchgate profile (https://www.researchgate.net/profile/Rafaella-Do-Nascimento-2)
 
 <!---
